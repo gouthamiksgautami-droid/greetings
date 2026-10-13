@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
 body {
-    font-family: 'Indie Flower', cursive !important;
-    background: #FDE3A7;
+    font-family: 'Roboto Mono', cursive !important;
+    background: rgb(233, 134, 20);
     margin: 0;
     padding: 0;
 }
